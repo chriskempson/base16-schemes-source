@@ -6,6 +6,10 @@ All schemes added to this repository list **must** be released under the MIT (or
 
 To add your own scheme, submit a pull request and add your repository to the list below. **Repository naming scheme: base16-[scheme-name]-scheme** (with dashes as separators).
 
+### Official Schemes
+* [Default](https://github.com/chriskempson/base16-default-scheme) maintained by [chriskempson](https://github.com/chriskempson)
+
+### Community Contributed Schemes
 * [Apprentice](https://github.com/casonadams/base16-apprentice-scheme) maintained by [casonadams](https://github.com/casonadams)
 * [Atelier](https://github.com/atelierbram/base16-atelier-schemes) maintained by [atelierbram](https://github.com/atelierbram)
 * [Atlas](https://github.com/ajlende/base16-atlas-scheme) maintained by [ajlende](https://github.com/ajlende)
@@ -20,7 +24,6 @@ To add your own scheme, submit a pull request and add your repository to the lis
 * [DanQing](https://github.com/CosmosAtlas/base16-danqing-scheme) maintained by [CosmoAtlas](https://github.com/CosmosAtlas)
 * [Darcula](https://github.com/casonadams/base16-darcula-scheme) maintained by [casonadams](https://github.com/casonadams)
 * [Darkviolet](https://github.com/ruler501/base16-darkviolet-scheme) maintained by [ruler501](https://github.com/ruler501)
-* [Default](https://github.com/chriskempson/base16-default-scheme) maintained by [chriskempson](https://github.com/chriskempson)
 * [Dracula](https://github.com/dracula/base16-dracula-scheme) maintained by [mikebarkmin](https://github.com/mikebarkmin)
 * [Equilibrium](https://github.com/carloabelli/base16-equilibrium-scheme) maintained by [carloabelli](https://github.com/carloabelli)
 * [Espresso](https://github.com/alexmirrington/base16-espresso-scheme) maintained by [alexmirrington](https://github.com/alexmirrington)
@@ -69,7 +72,6 @@ To add your own scheme, submit a pull request and add your repository to the lis
 * [Summerfruit](https://github.com/cscorley/base16-summerfruit-scheme) maintained by [cscorley](https://github.com/cscorley)
 * [Synth Midnight](https://github.com/michael-ball/base16-synth-midnight-scheme) maintained by [michael-ball](https://github.com/michael-ball)
 * [Tender](https://github.com/DanManN/base16-tender-scheme) maintained by [DanManN](https://github.com/DanManN)
-* [Tomorrow](https://github.com/chriskempson/base16-tomorrow-scheme) maintained by [chriskempson](https://github.com/chriskempson)
 * [Twilight](https://github.com/hartbit/base16-twilight-scheme) maintained by [hartbit](https://github.com/hartbit)
 * [Unikitty](https://github.com/joshwlewis/base16-unikitty) maintained by [joshwlewis](https://github.com/joshwlewis)
 * [Vice](https://github.com/Thomashighbaugh/base16-vice-scheme) maintained by [Thomashighbaugh](https://github.com/Thomashighbaugh)
