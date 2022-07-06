@@ -1,8 +1,7 @@
-# Offical Base16 schemes
+# Offical Base16 Schemes
 default: https://github.com/chriskempson/base16-default-schemes
-tomorrow: https://github.com/chriskempson/base16-tomorrow-scheme
 
-# Please order list alphanumerically
+# Community Contributed Schemes - Please order list alphanumerically
 apprentice: https://github.com/casonadams/base16-apprentice-scheme
 atelier: https://github.com/atelierbram/base16-atelier-schemes
 atlas: https://github.com/ajlende/base16-atlas-scheme
