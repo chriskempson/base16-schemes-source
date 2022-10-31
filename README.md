@@ -52,6 +52,7 @@ To add your own scheme, submit a pull request and add your repository to the lis
 * [One Light](https://github.com/purpleKarrot/base16-one-light-scheme) maintained by [purpleKarrot](https://github.com/purpleKarrot)
 * [Onedark](https://github.com/tilal6991/base16-onedark-scheme) maintained by [tilal6991](https://github.com/tilal6991)
 * [Outrun](https://github.com/hugodelahousse/base16-outrun-schemes) maintained by [hugodelahousse](https://github.com/hugodelahousse)
+* [Painted](https://github.com/dark-beep-boop/base16-painted-scheme) maintained by [dark-beep-boop](https://github.com/dark-beep-boop)
 * [PaperColor](https://github.com/jonleopard/base16-papercolor-scheme) maintained by [jonleopard](https://github.com/jonleopard)
 * [Pasque](https://github.com/Misterio77/base16-pasque-scheme) maintained by [Misterio77](https://github.com/Misterio77)
 * [pinky](https://github.com/b3nj5m1n/base16-pinky-scheme) maintained by [b3nj5m1n](https://github.com/b3nj5m1n)
