@@ -14,6 +14,7 @@ To add your own scheme, submit a pull request and add your repository to the lis
 * [Atelier](https://github.com/atelierbram/base16-atelier-schemes) maintained by [atelierbram](https://github.com/atelierbram)
 * [Atlas](https://github.com/ajlende/base16-atlas-scheme) maintained by [ajlende](https://github.com/ajlende)
 * [Black Metal](https://github.com/metalelf0/base16-black-metal-scheme) maintained by [metalelf0](https://github.com/metalelf0)
+* [Bright](https://gitlab.com/chtk/base16-bright) maintained by [chtk](https://gitlab.com/chtk)
 * [Brogrammer](https://github.com/piggyslasher/base16-brogrammer-scheme) maintained by [piggyslasher](https://github.com/piggyslasher)
 * [Brush Trees](https://github.com/whiteabelincoln/base16-brushtrees-scheme) maintained by [whiteabelincoln](https://github.com/whiteabelincoln)
 * [Circus](https://github.com/stepchowfun/base16-circus-scheme) maintained by [stepchowfun](https://github.com/stepchowfun) and [ewang12](https://github.com/ewang12)
