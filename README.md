@@ -16,6 +16,7 @@ To add your own scheme, submit a pull request and add your repository to the lis
 * [Black Metal](https://github.com/metalelf0/base16-black-metal-scheme) maintained by [metalelf0](https://github.com/metalelf0)
 * [Brogrammer](https://github.com/piggyslasher/base16-brogrammer-scheme) maintained by [piggyslasher](https://github.com/piggyslasher)
 * [Brush Trees](https://github.com/whiteabelincoln/base16-brushtrees-scheme) maintained by [whiteabelincoln](https://github.com/whiteabelincoln)
+* [Catppuccin](https://github.com/augustebaum/base16-catppuccin-schemes) maintained by [augustebaum](https://github.com/augustebaum)
 * [Circus](https://github.com/stepchowfun/base16-circus-scheme) maintained by [stepchowfun](https://github.com/stepchowfun) and [ewang12](https://github.com/ewang12)
 * [Classic](https://github.com/detly/base16-classic-scheme) maintained by [detly](https://github.com/detly)
 * [Codeschool](https://github.com/blockloop/base16-codeschool-scheme) maintained by [blockloop](https://github.com/blockloop)
