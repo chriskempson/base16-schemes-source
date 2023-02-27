@@ -67,7 +67,6 @@ To add your own scheme, submit a pull request and add your repository to the lis
 * [Silk](https://github.com/Misterio77/base16-silk-scheme) maintained by [Misterio77](https://github.com/misterio77)
 * [Snazzy](https://github.com/h404bi/base16-snazzy-scheme) maintained by [h404bi](https://github.com/h404bi)
 * [Solarflare](https://github.com/mnussbaum/base16-solarflare-scheme) maintained by [mnussbaum](https://github.com/mnussbaum)
-* [Solarized](https://github.com/aramisgithub/base16-solarized-scheme) maintained by [aramisgithub](https://github.com/aramisgithub)
 * [Summercamp](https://github.com/zoefiri/base16-summercamp) maintained by [zoe firi](https://github.com/zoefiri)
 * [Summerfruit](https://github.com/cscorley/base16-summerfruit-scheme) maintained by [cscorley](https://github.com/cscorley)
 * [Synth Midnight](https://github.com/michael-ball/base16-synth-midnight-scheme) maintained by [michael-ball](https://github.com/michael-ball)
