@@ -17,6 +17,7 @@ To add your own scheme, submit a pull request and add your repository to the lis
 * [Brogrammer](https://github.com/piggyslasher/base16-brogrammer-scheme) maintained by [piggyslasher](https://github.com/piggyslasher)
 * [Brush Trees](https://github.com/whiteabelincoln/base16-brushtrees-scheme) maintained by [whiteabelincoln](https://github.com/whiteabelincoln)
 * [Circus](https://github.com/stepchowfun/base16-circus-scheme) maintained by [stepchowfun](https://github.com/stepchowfun) and [ewang12](https://github.com/ewang12)
+* [City Lights](https://github.com/mat-his/base16-citylights-scheme) maintained by [mat-his](https://github.com/mat-his)
 * [Classic](https://github.com/detly/base16-classic-scheme) maintained by [detly](https://github.com/detly)
 * [Codeschool](https://github.com/blockloop/base16-codeschool-scheme) maintained by [blockloop](https://github.com/blockloop)
 * [Colors](https://github.com/hakatashi/base16-colors-scheme) maintained by [hakatashi](https://github.com/hakatashi)
