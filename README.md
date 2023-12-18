@@ -44,6 +44,7 @@ To add your own scheme, submit a pull request and add your repository to the lis
 * [Materia](https://github.com/Defman21/base16-materia) maintained by [Defman21](https://github.com/Defman21)
 * [Material Theme](https://github.com/ntpeters/base16-materialtheme-scheme) maintained by [ntpeters](https://github.com/ntpeters)
 * [Material Vivid](https://github.com/joshyrobot/base16-material-vivid-scheme) maintained by [joshyrobot](https://github.com/joshyrobot)
+* [Measured](https://github.com/measuredco/base16-measured-scheme) maintained by [measuredco](https://github.com/measuredco)
 * [Mellow](https://github.com/gidsi/base16-mellow-scheme) maintained by [gidsi](https://github.com/gidsi)
 * [Mexico-Light](https://github.com/drzel/base16-mexico-light-scheme) maintained by [drzel](https://github.com/drzel)
 * [Nebula](https://github.com/Misterio77/base16-nebula-scheme) maintained by [Misterio77](https://github.com/Misterio77)
