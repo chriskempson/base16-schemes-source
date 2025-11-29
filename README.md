@@ -20,6 +20,7 @@ To add your own scheme, submit a pull request and add your repository to the lis
 * [Classic](https://github.com/detly/base16-classic-scheme) maintained by [detly](https://github.com/detly)
 * [Codeschool](https://github.com/blockloop/base16-codeschool-scheme) maintained by [blockloop](https://github.com/blockloop)
 * [Colors](https://github.com/hakatashi/base16-colors-scheme) maintained by [hakatashi](https://github.com/hakatashi)
+* [Corduroy](https://github.com/taysatte/base16-corduroy-scheme) maintained by [taysatte](https://github.com/taysatte)
 * [Cupertino](https://github.com/Defman21/base16-cupertino) maintained by [Defman21](https://github.com/Defman21)
 * [DanQing](https://github.com/CosmosAtlas/base16-danqing-scheme) maintained by [CosmoAtlas](https://github.com/CosmosAtlas)
 * [Darcula](https://github.com/casonadams/base16-darcula-scheme) maintained by [casonadams](https://github.com/casonadams)
